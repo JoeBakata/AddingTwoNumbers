@@ -1,0 +1,7 @@
+D:\Users\Joseph\source\repos\AddingTwoNumbers\obj\Debug\AddingTwoNumbers.csproj.CoreCompileInputs.cache
+D:\Users\Joseph\source\repos\AddingTwoNumbers\bin\Debug\AddingTwoNumbers.exe.config
+D:\Users\Joseph\source\repos\AddingTwoNumbers\bin\Debug\AddingTwoNumbers.exe
+D:\Users\Joseph\source\repos\AddingTwoNumbers\bin\Debug\AddingTwoNumbers.pdb
+D:\Users\Joseph\source\repos\AddingTwoNumbers\obj\Debug\AddingTwoNumbers.exe
+D:\Users\Joseph\source\repos\AddingTwoNumbers\obj\Debug\AddingTwoNumbers.pdb
+D:\Users\Joseph\source\repos\AddingTwoNumbers\obj\Debug\AddingTwoNumbers.csproj.AssemblyReference.cache
